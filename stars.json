@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "scotch-io/ultimate-guide-to-javascript-algorithms",
+    "stargazers_count": 127,
+    "open_issues_count": 3,
+    "forks_count": 181
+  },
+  {
     "full_name": "WonjaeSung/binary-upload-boom",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -13,19 +19,19 @@
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 33834,
+    "stargazers_count": 33846,
     "open_issues_count": 19,
-    "forks_count": 7993
+    "forks_count": 7998
   },
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 24,
-    "open_issues_count": 46,
+    "open_issues_count": 44,
     "forks_count": 30
   },
   {
     "full_name": "public-api-lists/public-api-lists",
-    "stargazers_count": 5494,
+    "stargazers_count": 5503,
     "open_issues_count": 22,
     "forks_count": 377
   }
