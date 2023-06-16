@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "danwagnerco/vba-style-guide",
+    "stargazers_count": 56,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
     "full_name": "scotch-io/ultimate-guide-to-javascript-algorithms",
     "stargazers_count": 146,
     "open_issues_count": 3,
@@ -19,20 +25,20 @@
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 34132,
+    "stargazers_count": 34133,
     "open_issues_count": 19,
-    "forks_count": 8114
+    "forks_count": 8115
   },
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 27,
-    "open_issues_count": 53,
+    "open_issues_count": 54,
     "forks_count": 32
   },
   {
     "full_name": "public-api-lists/public-api-lists",
-    "stargazers_count": 6805,
+    "stargazers_count": 6823,
     "open_issues_count": 8,
-    "forks_count": 485
+    "forks_count": 486
   }
 ]
